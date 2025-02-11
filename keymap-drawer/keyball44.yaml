@@ -100,7 +100,7 @@ layers:
   - '&'
   - '*'
   - (
-  - {t: INTERNATIONAL 3, s: INTERNATIONAL 6}
+  - INT YEN
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-caps$$
