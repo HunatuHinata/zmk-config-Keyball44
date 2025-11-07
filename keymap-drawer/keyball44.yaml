@@ -89,7 +89,7 @@ layers:
   - {type: held}
   - SCROLL
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: QWRT, h: toggle}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   SYM:
   - $$mdi:keyboard-tab$$
   - '!'
@@ -224,4 +224,4 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - PREV
   - $$mdi:skip-next$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: QWRT, h: toggle}
