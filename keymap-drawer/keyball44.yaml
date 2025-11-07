@@ -44,7 +44,7 @@ layers:
   - NUM
   - SYM
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: MOUSE, h: toggle}
+  - MOUSE
   NUM:
   - {t: '`', s: '~'}
   - '1'
@@ -224,4 +224,4 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - PREV
   - $$mdi:skip-next$$
-  - {t: QWRT, h: toggle}
+  - {t: '$$mdi:minus-circle-outline$$', type: held}
